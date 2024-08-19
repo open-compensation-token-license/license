@@ -1,5 +1,6 @@
+
             Open Compensation Token License
-               Version 0.19, April 2024
+               Version 0.20, August 2024
          Copyright Tim Frey, Christian Schmitt
 
 TERMS AND CONDITIONS FOR USING NON FUNGIBLE TOKENS AND SMART CONTRACTS TO LICENSE SOFTWARE
@@ -31,8 +32,9 @@ The actual version of the *Open Compensation Token License (short OCTL)* shall b
 Deployed and valid or updated instances references of those smart contracts (contract addresses) and their way of operation and documentation to interact with those shall be found in: https://github.com/open-compensation-token-license/octl.
 The final execution of those smart contracts and interaction of *Legal Actors* shall happen in a decentralized network and not be controlled by a singular entity.
 Hence, when *OCTL smart contracts* are mentioned in this document it shall always mean their source code resulting in their final object code, their storage and their associated resulting way of operation and execution in a distributed and decentralized way.
+Distributed ledger addresses where active *OCTL smart contracts* can be used to on a blockchain are documented in ONCHAINCONTRACTS.md.
 
-*OCTL Root Project* shall mean the *Digital Artifacts* of the *OCTL*, the *Open Compensation Token License* itself and *OCTL smart contracts* and documentation.
+*OCTL Root Project* shall mean the *Digital Artifacts* of the *OCTL*, the *Open Compensation Token License* itself and *OCTL smart contracts* and documentation. Optimally one can also recognize most of the OCTL *Digital Artifacts* additionally by the tag "octl-sid:7dec4673-5559-4895-9714-1cdd61a58b57" in files.
 
 *OCTL Application* shall mean an actors usage of the *OCTL* associated *OCTL smart contracts* to issue, distribute, sell or define *Application Licenses*.  
 
@@ -85,7 +87,8 @@ In the case of the *OCTL* a *Token* shall be created by *OCTL smart contracts*. 
 
 *Contributor Token* shall mean any non fungible *Token* tied to a smart contract of the *OCTL*, allowing the *Token Holder* who is the *Rights Owner* to represent one or more *Digital Artifacts*. For example such *Contributor Tokens* can represent as a *copyright* protected *Work*, *Derivate Works*, *Projects*, *Source*, *Object* or any other kind of *Contribution*.
 
-*Surrogate ID* and *URI* (Uniform Resource Identifier) shall mean any unique identifier such as a Universally Unique Identifier (UUID) or Token, representing one or more *Digital Artifacts* or *intellectual property rights*. A *Digital Artifact* or *intellectual property rights* can be associated with multiple *Surrogate ID*/*URI* and *Surrogate ID*/*URI* themselves or a set of those can be represented by other *Surrogate ID*/*URI*. The association of *Digital Artifacts* can for instance be specified in a file or a git commit or a list of files and *Surrogate IDs* to create sets. *Surrogate IDs*/*URI* can be used as method to associate *Contributor Tokens* with the contents of the *Surrogate IDs*/*URIs*.
+*Surrogate ID* and *URI* (Uniform Resource Identifier) shall mean any unique identifier such as a Universally Unique Identifier (UUID) or Token, representing one or more *Digital Artifacts* or *intellectual property rights*. A *Digital Artifact* or *intellectual property rights* can be associated with multiple *Surrogate ID*/*URI* and *Surrogate ID*/*URI* themselves or a set of those can be represented by other *Surrogate ID*/*URI*. The association of *Digital Artifacts* can for instance be specified in a file or a git commit or a list of files and *Surrogate IDs* to create sets. Another way is to include a OCTL-SID-INFO.txt in the root of a project, defining which artifacts belong to which SID. In *source code* one can also use tags to make associations.
+*Surrogate IDs*/*URI* can be used as method to associate *Contributor Tokens* with the contents of the *Surrogate IDs*/*URIs*.
 
 *License Token* shall mean any non fungible *Token* representing terms, conditions and computation directives for a License and its cost for a defined intellectual property, in *Object* or *Source*, represented by a *Contribution Token*.
 
@@ -236,3 +239,7 @@ If the disclaimer of warranty and limitation of liability provided above cannot 
 
 
          END OF TERMS AND CONDITIONS
+
+```
+@octl.sid:7dec4673-5559-4895-9714-1cdd61a58b57
+```
