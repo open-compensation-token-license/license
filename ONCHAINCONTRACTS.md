@@ -12,3 +12,5 @@ Procure usage licenses for artifacts registered with the Licenseable Contributio
 Granted License Contract:
 NFT representing usage licenses that get issued by the License Contract
 0xb0B386f0c21c3ed9C8e195e0823e584b5F2e8F79
+
+Details/Implementation: [License-token.com](https://license-token.com)
