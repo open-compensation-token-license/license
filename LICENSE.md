@@ -2,6 +2,8 @@
             Open Compensation Token License
                Version 0.21, December 2024
          Copyright © Tim Frey and Christian Schmitt
+            
+Implementation: [License-token.com](https://license-token.com)
 
 TERMS AND CONDITIONS FOR USING NON-FUNGIBLE TOKENS AND SMART CONTRACTS TO LICENSE SOFTWARE
 
