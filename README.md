@@ -24,4 +24,5 @@ NFT representing usage licenses that get issued by the License Contract
 
 # More Information 
 * Howto, Examples, Sourcecode https://github.com/open-compensation-token-license/octl
-* Puzzle Website https://nftpuzzle.license-token.com/
+* Puzzle Website [Largest NFT Puzzle of the world to fund development of token based (open) source/ fair code licensing](https://nftpuzzle.license-token.com/)
+* Implementation: [License-token.com](https://license-token.com)
