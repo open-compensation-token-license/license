@@ -11,3 +11,5 @@ the Licenseable Contributions contract with this contract.
 Granted License Contract: NFT representing usage licenses that get
 issued by the License Contract
 0xb0B386f0c21c3ed9C8e195e0823e584b5F2e8F79
+
+Details/Implementation: https://license-token.com
