@@ -1,8 +1,9 @@
             Open Compensation Token License
                Version 0.21, December 2024
          Copyright © Tim Frey and Christian Schmitt
+            
 
-Implementation: https://license-token.com
+Implementation: License-token.com
 
 TERMS AND CONDITIONS FOR USING NON-FUNGIBLE TOKENS AND SMART CONTRACTS
 TO LICENSE SOFTWARE
@@ -20,8 +21,8 @@ current version should check for updates regularly. Later versions of
 this License and associated software will supersede the current version.
 
 This License and associated software artifacts come without any
-warranties or guarantees. It is to be assumed that, like in any 
-software project, there are bugs and failures.
+warranties or guarantees. It is to be assumed that, like in any software
+project, there are bugs and failures.
 
 Goal of the Open Compensation Token License is to enable creators (for
 instance of software) to open source and tie their Work to non-fungible
@@ -30,10 +31,10 @@ economy. This possibility shall advance and help distributed ledger
 technology to become mainstream and motivate creatives to publish their
 work in an open source and collaborative way.
 
-In a nutshell, the Open Compensation Token License and associated smart 
-contracts leverage native fits between usage permissions or rights and 
-the associated creations in a completely non-fungible token manner, 
-defining "license terms and conditions," "usage licenses," and the 
+In a nutshell, the Open Compensation Token License and associated smart
+contracts leverage native fits between usage permissions or rights and
+the associated creations in a completely non-fungible token manner,
+defining “license terms and conditions,” “usage licenses,” and the
 creations themselves.
 
 1. Definitions
@@ -46,8 +47,8 @@ given in the following:
 
 Open Compensation Token License (short OCTL) shall mean the terms and
 conditions for use, reproduction, and distribution as defined by
-Sections 1 through 9 of this document. In this document the *(OCTL)* 
-is also referred to as this License.The actual version of the Open
+Sections 1 through 9 of this document. In this document the (OCTL) is
+also referred to as this License. The actual version of the Open
 Compensation Token License (short OCTL) shall be found in text in
 https://github.com/open-compensation-token-license/license.
 
@@ -66,10 +67,10 @@ execution in a distributed and decentralized way. Distributed ledger
 addresses where active OCTL smart contracts can be used to on a
 blockchain are documented in ONCHAINCONTRACTS.md.
 
-OCTL Root Project shall mean the Digital Artifacts of the OCTL, including 
-the Open Compensation Token License itself and OCTL smart contracts and
-documentation. Ideally, one can also recognize most of the OCTL Digital
-Artifacts additionally by the tag
+OCTL Root Project shall mean the Digital Artifacts of the OCTL,
+including the Open Compensation Token License itself and OCTL smart
+contracts and documentation. Ideally, one can also recognize most of the
+OCTL Digital Artifacts additionally by the tag
 “octl-sid:7dec4673-5559-4895-9714-1cdd61a58b57” in files.
 
 OCTL Application shall mean an actors usage of the OCTL associated OCTL
@@ -99,10 +100,10 @@ beneficial ownership of such entity.
 Legal Actor shall mean any natural person, Legal Entity or any form of
 association representing the will of natural persons or Legal Entities.
 
-Rights Owner shall mean any Legal Actor owning the copyrights,
-patents or similar rights, permissions grants to issue copyright, patent
-grants or similar of Digital Artifacts, Work, Source, Object, Derivative
-Works, Contribution or similar to others.
+Rights Owner shall mean any Legal Actor owning the copyrights, patents
+or similar rights, permissions grants to issue copyright, patent grants
+or similar of Digital Artifacts, Work, Source, Object, Derivative Works,
+Contribution or similar to others.
 
 OCTL Maintainers shall mean the group of Rights Owners of the OCTL
 itself.
@@ -127,8 +128,7 @@ Licensor, according to the terms of the OCTL.
 1.3. Artifacts
 
 Digital Artifact shall mean any kind of digital manifestation of an
-intellectual creation for which a copyright or patent
-right exists.
+intellectual creation for which a copyright or patent right exists.
 
 Source form shall mean any Digital Artifact in the preferred form for
 making modifications, including but not limited to images, texts,
@@ -214,21 +214,21 @@ Contribution Token.
 
 Granted License Token shall mean any non-fungible Token representing
 usage rights of copyright or otherwise protected Work, Derivate Works,
-Projects, Source, Object or any other kind of Contributions. 
-Granted License Tokens represent or contain Application Licenses.  
+Projects, Source, Object or any other kind of Contributions. Granted
+License Tokens represent or contain Application Licenses.
 
 1.5. Specific OCTL Actor representations
 
-OCTL Maintainers shall be represented by the authors of the OCTL 
-and smart contracts itself.
+OCTL Maintainers shall be represented by the authors of the OCTL and
+smart contracts itself.
 
 2. Terms of applying the Open Compensation Token License to Digital Artifacts
 
 Any Legal Actor (second party) shall be granted an OCTL Application
 License form the OCTL Root Project/OCTL Maintainers (first party) to
 license Digital Artifacts to a Licensee (third party) which the Legal
-Actor holds the sufficient rights and permissions (being the Rights Owner
-of the artifacts), provided the following terms and conditions are
+Actor holds the sufficient rights and permissions (being the Rights
+Owner of the artifacts), provided the following terms and conditions are
 met: - The Licensee (third party) of the Legal Actor (second party)
 acknowledges and agrees in special that even malicious or illegal
 Digital Artifacts of the Legal Actor being sold via OCTL smart
@@ -269,9 +269,9 @@ condition of the associated License Tokens.
 
 2.1. Updates
 
-With the agreement of over 75% of the OCTL Maintainers, may publish revised
-and/or new versions of the Open Compensation Token License or its
-associated artifacts, such as smart contracts, from time to time.
+With the agreement of over 75% of the OCTL Maintainers, may publish
+revised and/or new versions of the Open Compensation Token License or
+its associated artifacts, such as smart contracts, from time to time.
 
 Such new versions will be similar in spirit to the present version, but
 may differ in detail to address new problems or concerns.
@@ -283,19 +283,17 @@ version later than the specified version or the latest published version
 of the Open Compensation Token License shall be applicable for the
 project.
 
-Since this License is under development, please note that later
-versions shall override and restrict permissions or introduce new
-obligations.
+Since this License is under development, please note that later versions
+shall override and restrict permissions or introduce new obligations.
 
 2.2. Contributions to the OCTL itself
 
 Any Legal Actor may provide suggestions or improvements in form of
 Digital Artifacts for the OCTL and its associated artifacts (e.g. OCTL
 smart contracts) and ask for inclusion and incorporation of these into
-the OCTL. Any such inclusion request shall be seen as a donation free 
-of charge where all usage rights, permissions and perpetual
-copyright is granted to the OCTL Maintainers without any terms and
-conditions.
+the OCTL. Any such inclusion request shall be seen as a donation free of
+charge where all usage rights, permissions and perpetual copyright is
+granted to the OCTL Maintainers without any terms and conditions.
 
 2.3. Jurisdiction of the OCTL
 
@@ -306,7 +304,7 @@ jurisdiction for all shall be agreed on by each participant (for
 example, but not limited to: OCTL Author, OCTL Maintainers, OCTL
 Applicant, Licensee): Any action or suit relating to this OCTL itself or
 Digital Artifacts licensed under the OCTL may be brought only in the
-courts of Cyprus and under the laws of that juristiction excluding its
+courts of Cyprus and under the laws of that jurisdiction excluding its
 conflict-of-law provisions. The application of the United Nations
 Convention on Contracts for the International Sale of Goods is expressly
 excluded. Any use of the original Work outside the scope of this OCTL or
@@ -325,11 +323,11 @@ source and executable contracts on the blockchain.
 
 2.4.2. Smart contract realization and Open Compensation Token License
 
--   In case there is a difference of the written version and the
-    OCTL smart contracts, the written version shall prevail.
--   In case there are elements in OCTL smart contract that are not
-    written in the OCTL text, the smart contract code shall serve as
-    manifestation of the meaning of the OCTL.
+- In case there is a difference of the written version and the OCTL
+  smart contracts, the written version shall prevail.
+- In case there are elements in OCTL smart contract that are not written
+  in the OCTL text, the smart contract code shall serve as manifestation
+  of the meaning of the OCTL.
 
 3. OCTL Project Setup and Management
 
@@ -354,10 +352,10 @@ Any Project, being itself licensed with the OCTL or not, using Digital
 Artifacts or other Projects licensed under the terms and conditions of
 the OCTL shall obtain the necessary Application License of the used
 Projects and an OCTL Application License itself and tied to its terms
-and conditions. Thereby, using is defined as applying, linking, or any 
-other form of utilization that is described in 4. The necessary Application
-License need to be procured by getting into possession of the
-representing Application License Token. Details of the different
+and conditions. Thereby, using is defined as applying, linking, or any
+other form of utilization that is described in 4. The necessary
+Application License need to be procured by getting into possession of
+the representing Application License Token. Details of the different
 Application Licenses are described in 4.
 
 4.2. Exemption
@@ -446,12 +444,12 @@ Each license token shall be unique and not interchangeable.
 
 5.6.2. Transferablility
 
--   The OCTL Smart Contract implementation specifies transferability
-    feature or denies them.
--   Transfers of an Application Licenses can also include a commission
-    that is distributed to the Contributor Token holders.
--   Once a Application License Token was transferred a new Token Holder
-    this shall represent the transfer of the Application License itself.
+- The OCTL Smart Contract implementation specifies transferability
+  feature or denies them.
+- Transfers of an Application Licenses can also include a commission
+  that is distributed to the Contributor Token holders.
+- Once a Application License Token was transferred a new Token Holder
+  this shall represent the transfer of the Application License itself.
 
 5.7. Time based Application License Tokens
 
